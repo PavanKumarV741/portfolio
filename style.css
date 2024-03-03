@@ -9,6 +9,10 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  background-color: rgb(241, 250, 250);
+  /* background-image: url("./assets/background-4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; */
 }
 
 html {
@@ -59,7 +63,7 @@ a:hover {
 }
 
 .logo {
-  font-size: 2rem;
+  font-size: 4rem;
 }
 
 .logo:hover {
@@ -315,9 +319,8 @@ section {
 }
 
 .profile1{
-  border-radius: 80px;
-  width: 350px;
-  height: 500px;
+  border-radius: 50%;
+  width: 25vw;
 }
 
 /* EXPERIENCE SECTION */
